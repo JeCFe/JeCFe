@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Jessica Fealy</h1>
-<h3 align="center">A software developer based in Cardiff, Wales</h3>
+<h3 align="center">A software engineer based in Cardiff, Wales</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jecfe&label=Profile%20views&color=c400c4&style=flat-square" alt="jecfe" /> </p>
 
 - 😄 Pronouns **She/Her**
 
-- 🤝 I’m currently employed as a **software enginer**
+- 🤝 I’m currently employed as a **software engineer**
 
 - 📄 View my portfolio [https://jecfe.github.io](https://jecfe.github.io)
 
