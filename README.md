@@ -1,5 +1,5 @@
 <div align="center"><img src="https://jecfeblobby.blob.core.windows.net/jecfe-logo/jecfe-logo.svg" alt="JeCFe" width="100" height="100"/></div>
-<h1 align="center">Hi 👋, I'm Jessica</h1>
+<h1 align="center">Hiya! I'm Jessica</h1>
 <h3 align="center">A full stack software engineer based in Cardiff, Wales</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JeCFe&label=Profile%20views&color=E500FF&style=flat" alt="JeCFe" /> </p>
 
@@ -42,12 +42,8 @@
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=JeCFe&show_icons=true&locale=en&theme=radical" alt="JeCFe" /></p>
 
 <img><h3 align="left">Statistics</h3>
-<div align="center">
+<div align="left">
 <a href="https://github.com/JeCFe">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeCFe&theme=radical" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JeCFe&theme=radical" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JeCFe&theme=radical" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JeCFe&theme=radical" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeCFe&theme=radical" height="180em" />
 </div>
 <img><h3 align="left">Activity Graph:</h3>
