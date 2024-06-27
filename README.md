@@ -1,3 +1,4 @@
+<div align="center"><img src="https://jecfeblobby.blob.core.windows.net/jecfe-logo/jecfe-logo.svg" alt="JeCFe" width="100" height="100"/></div>
 <h1 align="center">Hi 👋, I'm Jessica</h1>
 <h3 align="center">A full stack software engineer based in Cardiff, Wales</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JeCFe&label=Profile%20views&color=E500FF&style=flat" alt="JeCFe" /> </p>
