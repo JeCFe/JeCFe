@@ -9,7 +9,7 @@
 
 - 🤝 I’m currently employed as a **software engineer**
 
-- 📄 View my portfolio [https://jessicafealy.dev](https://jessicafealy.dev) 
+- 📄 View my portfolio [https://jessicafealy.dev](https://www.jessicafealy.dev) 
 
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
